@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{0A3E684C-5E1F-4B78-88A6-5AF5A4EA475E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="adamBrittain_cab301_assignment/MovieCollection.cs">
+    <Files>
+      <File FileName="adamBrittain_cab301_assignment/Program.cs" Line="29" Column="1" />
+      <File FileName="adamBrittain_cab301_assignment/Movie.cs" />
+      <File FileName="adamBrittain_cab301_assignment/Member.cs" />
+      <File FileName="adamBrittain_cab301_assignment/MemberCollection.cs" />
+      <File FileName="adamBrittain_cab301_assignment/MovieCollection.cs" Line="435" Column="48" />
+      <File FileName="adamBrittain_cab301_assignment/HelperFunctions.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="adamBrittain_cab301_assignment" expanded="True">
+            <Node name="adamBrittain_cab301_assignment" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.adamBrittain__cab301__assignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MmvKK77GDMxf9iiVUn/pW9JYzR+5mxEjXkpW7TQvMh9jpErkU7fHe1EJcns/5+Yt9hk1W9YaxuwHec4YmpgQZA==",
+  "success": true,
+  "projectFilePath": "/Users/adambrittain/Dropbox/UNI_SEM1_2020/CAB301/Assignment/AdamBrittain_n9141057_CAB301/Code/adamBrittain_cab301_assignment/adamBrittain_cab301_assignment.csproj",
+  "expectedPackageFiles": [
+    "/Users/adambrittain/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/3.1.4/microsoft.netcore.app.runtime.osx-x64.3.1.4.nupkg.sha512",
+    "/Users/adambrittain/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/3.1.4/microsoft.aspnetcore.app.runtime.osx-x64.3.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

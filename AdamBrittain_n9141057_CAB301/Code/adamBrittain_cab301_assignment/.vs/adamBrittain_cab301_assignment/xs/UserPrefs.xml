@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A4FFBE0F-9D7C-4F3D-AF09-7B8A29F59379}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelperFunctions.cs">
+    <Files>
+      <File FileName="MemberCollection.cs" Line="17" Column="52" />
+      <File FileName="Member.cs" />
+      <File FileName="Movie.cs" />
+      <File FileName="MovieCollection.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="HelperFunctions.cs" Line="14" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="adamBrittain_cab301_assignment" expanded="True">
+            <Node name="adamBrittain_cab301_assignment" expanded="True">
+              <Node name="HelperFunctions.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.adamBrittain__cab301__assignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
